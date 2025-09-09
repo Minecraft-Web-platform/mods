@@ -1,0 +1,30 @@
+[{
+  "mod-name": "xaeros",
+  "category": "map",
+  "dirs": ["/public/mods/map/"]
+},
+{
+  "mod-name": "journey",
+  "category": "map",
+  "dirs": ["/public/mods/map/"]
+},
+{
+  "mod-name": "jei",
+  "category": "ui-addon",
+  "dirs": ["/public/mods/ui-addon/"]
+},
+{
+  "mod-name": "smooth-gui",
+  "category": "ui-addon",
+  "dirs": ["/public/mods/ui-addon/"]
+},
+{
+  "mod-name": "apple-skin",
+  "category": "ui-addon",
+  "dirs": ["/public/mods/ui-addon/"]
+},
+{
+  "mod-name": "textbook",
+  "category": "tool",
+  "dirs": ["/public/mods/tool/"]
+}]
